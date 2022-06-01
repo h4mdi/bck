@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "file",
+      "type": "com.CoolioCoders.LMS.configuration.FileStoreProperties",
+      "sourceType": "com.CoolioCoders.LMS.configuration.FileStoreProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "file.upload-directory",
+      "type": "java.lang.String",
+      "sourceType": "com.CoolioCoders.LMS.configuration.FileStoreProperties"
+    }
+  ],
+  "hints": []
+}
